@@ -1,0 +1,6 @@
+venv
+.env
+
+# Sphinx documentation
+docs/build/
+docs/source/_build
