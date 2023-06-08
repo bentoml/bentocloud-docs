@@ -7,8 +7,6 @@ build:
   tools:
     python: "3.11"
   jobs:
-    post_checkout:
-      - git fetch --unshallow
     pre_install:
       - git update-index --assume-unchanged docs/source/conf.py
 
