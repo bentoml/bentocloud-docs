@@ -1,4 +1,4 @@
-# BentoML Documentation
+# BentoCloud Documentation
 
 ## A guide for docs contributors
 
