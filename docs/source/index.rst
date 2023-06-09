@@ -67,7 +67,7 @@ contributing to the project, helping other users and discuss all things MLOps.
    :hidden:
 
    🍱 BentoML <https://docs.bentoml.org/>
-   🦄️ Yatai <https://github.com/bentoml/Yatai>
+   🦄️ Yatai <https://docs.yatai.io/>
    🚀 bentoctl <https://github.com/bentoml/bentoctl>
 
 
